@@ -1,4 +1,4 @@
-# voxel-creature
+# voxel-creature -an amazing project
 
 create creatures for [voxel.js](http://voxeljs.com)
 
